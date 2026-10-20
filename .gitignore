@@ -25,3 +25,22 @@ application-local.yml
 # OS files
 .DS_Store
 Thumbs.db
+
+# Eclipse workspace
+.metadata/
+**/.metadata/
+
+# Maven build output
+**/target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+**/.classpath
+**/.project
+**/.settings/
+
+# VS Code
+.vscode/
+**/.vscode/

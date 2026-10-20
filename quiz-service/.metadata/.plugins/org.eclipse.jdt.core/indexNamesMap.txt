@@ -1,3 +1,0 @@
-INDEX VERSION 1.134
-file:/D:/LOCAL%20DISK%203/java/Quiz%20App/quiz-service/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
-meta_index
